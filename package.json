@@ -1,0 +1,22 @@
+{
+  "name": "param",
+  "version": "1.0.0",
+  "description": "Automatically mark attendance on WhatsApp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/humancalico/param.git"
+  },
+  "author": "humancalico",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/humancalico/param/issues"
+  },
+  "homepage": "https://github.com/humancalico/param#readme",
+  "dependencies": {
+    "sulla": "^2.3.14"
+  }
+}
